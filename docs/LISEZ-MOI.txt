@@ -1,0 +1,5 @@
+Mets ici tes images :
+  - organigramme-traitement.png   (Fig. III.27 du rapport)
+  - organigramme-esp32.png        (Fig. III.29 du rapport)
+  - chaine-mesure.jpg             (schéma de la chaîne de mesure)
+Puis supprime ce fichier.
